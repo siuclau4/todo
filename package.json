@@ -10,8 +10,8 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Jack Herrington",
-    "email": "jherr@pobox.com"
+    "name": "Stanley Lau",
+    "email": "siuclau4@gmail.com"
   },
   "devDependencies": {
     "@babel/core": "^7.15.8",
